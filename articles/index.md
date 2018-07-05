@@ -14,4 +14,5 @@ ms.topic: reference
 
 # Welcome to Azure Monitor Infrastructure Insights knowledge documentation
 
-Azure Monitor Infrastructure Insights helps you monitor the health of the Azure compute resources such as Linux and Windows operating system running on the virtual machines running in your subscription.  This reference information contains health diagnostic knowledge, which provides advice to help operators understand, diagnose and fix problems detected. 
+Azure Monitor Infrastructure Insights helps you monitor the health of the Azure compute resources such as Linux and Windows operating system running on the virtual machines running in your subscription.  This reference information contains health diagnostic knowledge, which provides advice to help operators understand, diagnose and fix problems detected.
+
