@@ -3,9 +3,6 @@
     "content": 
      [
       {
-        "files": ["breadcrumb/toc.yml"]
-      },
-      {
         "files": [
           "**/*.md",
           "**/*.yml"
@@ -39,7 +36,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/articles/breadcrumb/toc.yml",
+      "breadcrumb_path": "/breadcrumb/toc.yml",
       "extendBreadcrumb": true,
       "feedback_system": "None"
     },
